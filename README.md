@@ -1,19 +1,4 @@
-### Hi there 👋
-
-<!--
-**hula-la/hula-la** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&idx=2&height=250&section=header&text=SooJin's%20GitHub&fontSize=70&animation=fadeIn)
 <div align=center><h1>📚 STACKS</h1></div>
 
 <div align=center> 
@@ -57,5 +42,10 @@ Here are some ideas to get you started:
   <br>
 </div>
 
+  <div align=center><h1>🦾 Stats</h1></div>
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hula-la&show_icons=true&theme=buefy)
+  [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksgf988)](https://solved.ac/ksgf988)
+  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hula-la&show_icons=true&theme=buefy)
+
