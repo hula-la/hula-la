@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&idx=2&height=250&section=header&text=SooJin's%20GitHub&fontSize=70&animation=fadeIn)
 ### 👋 안녕하세요
 - **배움을 즐기는 웹 백엔드 엔지니어입니다.**
-- **프론트엔드의 원활한 작업을 위한 백엔드 로직 및 자료구조를 짜기 위해 고민하며 코드를 작성합니다. **
+- **프론트엔드의 원활한 작업을 위한 백엔드 로직 및 자료구조를 짜기 위해 고민하며 코드를 작성합니다.**
 - **유지보수를 위한 구조 및 객체지향적 프로그래밍에 관심이 많습니다.**
 <div align=center><h1>📚 STACKS</h1></div>
 
