@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&idx=2&height=250&section=header&text=SooJin's%20GitHub&fontSize=70&animation=fadeIn)
-### 👋 안녕하세요
-- **배움을 즐기는 웹 백엔드 엔지니어입니다.**
+### 👋 안녕하세요, 배움을 즐기는 웹 백엔드 엔지니어입니다.**
 
 <div align=center><h1>📚 STACKS</h1></div>
 
