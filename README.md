@@ -4,7 +4,7 @@
 <div align=center><h1>📚 STACKS</h1></div>
 
 <div align=center> 
-  <div style="font-weight: bold;">main stack</div>
+  <div><h5>main stack</h5></div>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <br>
   
@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/jirasoftware-0052CC?style=for-the-badge&logo=jira software&logoColor=white">
   <br>
   
-  <div>sub stack</div>
+  <div><h5>sub stack</h5></div>
     <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white">
     
